@@ -49,3 +49,9 @@ enabled on my private profile.
 
 This is a massive undertaking, and having people helping out t
 would be amazing.
+
+## Attribution
+
+Logo is based on the Gopher mascot by Renee French and is licensed under the [Creative Commons 4.0 Attribution License](https://creativecommons.org/licenses/by/4.0/).
+
+The artwork was based on an svg file by Takuya Ueda (https://twitter.com/tenntenn). Licensed under the Creative Commons 3.0 Attributions license. The svg was fetched from https://github.com/golang-samples/gopher-vector?tab=readme-ov-file
